@@ -1,1 +1,0 @@
-# firebase-app-1
