@@ -48,6 +48,9 @@ html, body {
    border-radius: 10px;
  }
 
+ul {
+   color: #eeeeef;
+}
 
 button:hover {
    background-color: var(--accent-color-hover);
